@@ -19,7 +19,7 @@ function calculate() {
       result *= number;
     } else if (operator === '/') {
       result /= number;
-    }else if (operator === '%') {
+    } else if (operator === '%') {
       result %= number;
     }
   }
